@@ -3,7 +3,7 @@ This Repository is for the FirstTimersOnly movement in Open Source. We want proj
 Visit our live webpage at https://www.firsttimersonly.com/
 ![Alt Text](https://raw.githubusercontent.com/lauras5/firsttimersonly/gh-pages/images/homePg.jpg)
 
-## Empower a First Timer today!
+## Empower a First Timer today! ss
 We believe - and we hope you do too - that learning how to code, how to think, and how to contribute to open source can empower the next generation of coders and creators. We VALUE first time contributors and we want them to know that everyone started somewhere!
 
 We have gathered a list of resources to motivate and empower you to making that first step into becoming a contributor to the open source realm. 
